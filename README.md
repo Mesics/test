@@ -1,2 +1,2 @@
-# test
-First try on GitHub
+# OCR
+Exercice OpenClassRooms
