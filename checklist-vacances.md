@@ -14,3 +14,11 @@ Divertissement :
 - Tablette
 - Jeux de société
 - cartes
+
+Vaisselle : 
+- Assiettes
+- Fourchettes
+- Couteaux 
+- Cuilleres
+- Verres
+- Mugs
