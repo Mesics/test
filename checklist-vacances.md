@@ -8,3 +8,9 @@ Technologie :
 Administratif :
 - billets 
 - passeport
+
+Divertissement : 
+- Livres
+- Tablette
+- Jeux de société
+- cartes
