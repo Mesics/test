@@ -1,15 +1,15 @@
-Vacances
+==== Vacances ====
 
-Technologie :
+> Technologie :
 - chargeur
 - portable
 - ordinateur
 
-Administratif :
+> Administratif :
 - billets 
 - passeport
 
-Divertissement : 
+> Divertissement : 
 - Livres
 - Tablette
 - Jeux de société
